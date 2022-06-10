@@ -1,0 +1,22 @@
+[
+	{
+		"id" : 1,
+		"nombre" : "Comida"
+	},
+	{
+		"id" : 2,
+		"nombre" : "Electro"
+	},
+	{
+		"id" : 3,
+		"nombre" : "Instrumentos musicales"
+	},
+	{
+		"id" : 4,
+		"nombre" : "Lacteos"
+	},
+	{
+		"id" : 6,
+		"nombre" : "Alimento"
+	}
+]

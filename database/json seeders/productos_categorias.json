@@ -1,0 +1,17 @@
+[
+	{
+		"id" : 1,
+		"categoria_id" : 6,
+		"producto_id" : 1
+	},
+	{
+		"id" : 2,
+		"categoria_id" : 6,
+		"producto_id" : 2
+	},
+	{
+		"id" : 8,
+		"categoria_id" : 1,
+		"producto_id" : 1
+	}
+]
